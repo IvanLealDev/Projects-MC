@@ -1,4 +1,4 @@
-# Projects-MC
+# Projects MC
 > These projects combine artistic and technical skills to offer an innovative gaming experience tailored to your ideas, making Minecraft a completely personalized and enriched environment.
 
 # Project File Categories
