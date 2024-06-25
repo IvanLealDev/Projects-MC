@@ -9,3 +9,4 @@ We have categories (2D Asset, 3D Models, MCreator Examples, Plugins, Scripts) wh
 - 🟢 [MCreator Examples](https://github.com/IvanLealDev/Projects-MC/discussions/categories/mcreator-examples)
 - ⚫ [Plugins](https://github.com/IvanLealDev/Projects-MC/discussions/categories/plugins)
 - 🔵 [Scripts](https://github.com/IvanLealDev/Projects-MC/discussions/categories/scripts)
+- 🔴 [Video Trailers](https://github.com/IvanLealDev/Projects-MC/discussions/categories/video-trailers)
